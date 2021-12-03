@@ -6,7 +6,7 @@ access GPIO, I2C, and SPI devices without needing to be tightly coupled to the A
 Python code.
 
 I originally named this "Adafruit FT232H Microservice", but renamed it to "IO Service" because
-it can be extended to wrap other backends, such as Linux spidev/gpiod/i2c-dev, etc.
+it can be extended to wrap other backends, such as Linux spidev/i2c-dev/gpiod, etc.
 
 ## Getting Started
 
